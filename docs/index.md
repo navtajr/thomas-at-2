@@ -1,4 +1,4 @@
-# Welcome to Our Platform
+# Welcome to Our HN Platform
 
 Welcome to the documentation site for our innovative platform. Here, you'll find detailed information on why platforms are essential, how they can transform your workflow, and the robust tools and technologies we offer to support our developers.
 

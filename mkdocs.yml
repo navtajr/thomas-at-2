@@ -1,4 +1,4 @@
-site_name: Platform Documentation
+site_name: HN - Platform Documentation
 theme:
   name: 'material'
   logo: 'images/logo.png'
@@ -24,4 +24,5 @@ extra_javascript:
 
 plugins:
   - search
+
 
