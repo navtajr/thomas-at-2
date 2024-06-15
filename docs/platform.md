@@ -18,7 +18,7 @@ Company XYZ implemented our platform and saw a 40% increase in productivity due 
 Platforms are designed to scale with your business. Whether you are a small startup or a large enterprise, our platform can grow with you, providing the flexibility to adapt to changing requirements.
 
 ### Diagram:
-![Scalability Diagram](images/scalability_diagram.png)
+<!---![Scalability Diagram](images/scalability_diagram.png)-->
 
 ## Improved Security
 With integrated security measures, platforms help safeguard your data and ensure compliance with industry standards. This is crucial for maintaining the trust of your customers and protecting sensitive information.
