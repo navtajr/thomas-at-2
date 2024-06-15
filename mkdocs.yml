@@ -14,6 +14,7 @@ nav:
   - Tools and Technologies: tools.md
   - Getting Started: getting_started.md
   - FAQ: faq.md
+  - Installation: install.md
 
 extra_css:
   - 'stylesheets/extra.css'
@@ -23,3 +24,4 @@ extra_javascript:
 
 plugins:
   - search
+
