@@ -21,7 +21,7 @@ To install and run the project using Docker, follow these steps:
 3. Run the Docker container:
 
   ```bash
-  docker run -p 8000:8000 navtajr/thomas-at-2:latest
+  docker run -p 8080:80 -d ghcr.io/navtajr/thomas-at-2:latest
   ```
 
 4. Access the project in your browser at `http://localhost:8000`.
