@@ -49,7 +49,7 @@ To run the project locally, follow these steps:
   mkdocs serve
   ```
 
-4. Access the project in your browser at `http://localhost:8000`.
+4. Access the project in your browser at `http://localhost:8080`.
 
 
 ## Contributing
